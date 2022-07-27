@@ -4,20 +4,10 @@
 
 ## 插件功能
 
-使用jsdelivr加速WordPress的后台核心小文件与插件小文件，大幅提高后台访问速度。支持自定义加速插件。
+使用阿里云oss加速WordPress的后台核心小文件，大幅提高后台访问速度。
 
-## 注意事项
+## 感谢
 
-**请勿使用测试版**插件，请仔细检查加速后是否兼容。可以通过浏览器的Console报错检查兼容性。
+原作者: [潘羿](https://www.idleleo.com/)
 
-此插件与jsdelivr无关，jsdelivr造成的意外损失与本插件无关。
-
-## 插件截图
-
-![20210122203422.jpg](https://raw.githubusercontent.com/paniy/idleleo/master/img/20210122203422.jpg)
-
-项目地址：[GitHub](https://github.com/paniy/WP-Admin-Boost)
-
-感谢：[WP中国本土化社区](https://wp-china.org/)
-
-**欢迎关注插件主页：**[无主界](https://www.idleleo.com/)
+[WP中国本土化社区](https://wp-china.org/)
